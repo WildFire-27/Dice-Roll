@@ -1,0 +1,40 @@
+body{
+  background-color:#E8F3E8;
+}
+
+h1{
+  color:#559E54;
+  font-family: "Pacifico",sans-serif;
+  font-size: 6rem;
+  margin: 20px;
+  text-shadow: 5px 0 #305A30;
+
+}
+
+p{
+    color:#0A3409;
+    font-size: 3rem;
+    font-family: "Courgette",sans-serif;
+}
+
+footer{
+    text-align: center;
+    font-family: "Courgette",cursive;
+    margin-top: 1%;
+    margin-top: 5%;
+    color: black;
+}
+
+img{
+  width: 80%;
+}
+.container{
+    text-align: center;
+    width: 70%;
+    margin: auto;
+}
+
+.dice{
+    text-align: center;
+    display: inline-block;
+}
